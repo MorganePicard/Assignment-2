@@ -7,11 +7,10 @@ body {
 
 h1 {
   font-family: 'Share Tech Mono', monospace;
-  color: #373fff;
+  color: lightblue;
 }
 
 h2 {font-family: 'Russo One', sans-serif;
-font-family: 'Share Tech', sans-serif;}
+font-family: 'Share Tech', sans-serif;
+color: blue}
 
-html { 
-  background: url(https://cdn.glitch.com/69c7d15a-8f4c-4a37-b3e6-df673c61727f%2Fphoto-1489321336462-efe12c02d099.jpg) no-repeat center center fixed;
