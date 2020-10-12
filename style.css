@@ -10,4 +10,8 @@ h1 {
   color: #373fff;
 }
 
-h2 {}
+h2 {font-family: 'Russo One', sans-serif;
+font-family: 'Share Tech', sans-serif;}
+
+html { 
+  background: url(https://cdn.glitch.com/69c7d15a-8f4c-4a37-b3e6-df673c61727f%2Fphoto-1489321336462-efe12c02d099.jpg) no-repeat center center fixed;
