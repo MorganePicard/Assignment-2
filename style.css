@@ -13,3 +13,6 @@ h1 {
 h2 {font-family: 'Russo One', sans-serif;
 font-family: 'Share Tech', sans-serif;
 color: blue}
+
+h3, #header, .red-text {
+    color: steelblue;
