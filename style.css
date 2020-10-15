@@ -27,7 +27,10 @@ h1 {
   background-position: center;
 }
 
-
+.section {
+  padding: 2rem 0 0 0;
+  text-align: center;
+}
 
 h2 {font-family: 'Russo One', sans-serif;
 font-family: 'Share Tech', sans-serif;
