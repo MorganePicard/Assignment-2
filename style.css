@@ -5,6 +5,14 @@ body {
   margin: 2em;
 }
 
+html { 
+  background: url(https://cdn.glitch.com/33eeb8ea-50c4-465e-8c19-0ce2b0eb0659%2Falex-knight-2EJCSULRwC8-unsplash%20(1).jpg?v=1602763707048) no-repeat center fixed;
+  /* set a background image to the html element (= our whole page) centered horizontally and vertically */
+  
+  background-size: cover;
+  /* adapt the size of the background image but keeps its ratio */
+}
+
 h1 {
   font-family: 'Share Tech Mono', monospace;
   color: darkblue;
@@ -15,4 +23,10 @@ font-family: 'Share Tech', sans-serif;
 color: blue}
 
 h3, #header, .red-text {
-    color: steelblue;
+  color: steelblue;}
+
+p {
+  font-size: 20px;
+  text-align: justify; /* aligns text on the right and the left of paragraphs except last line */
+  margin-bottom: 50px;
+}
