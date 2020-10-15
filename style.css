@@ -5,9 +5,6 @@ body {
   margin: 2em;
 }
 
-html { 
-  background: url(https://cdn.glitch.com/69c7d15a-8f4c-4a37-b3e6-df673c61727f%2Fphoto-1489321336462-efe12c02d099.jpg) no-repeat center center fixed;
-  backgroung size : 
 
 h1 {
   font-family: 'Share Tech Mono', monospace;
@@ -23,6 +20,6 @@ h3, #header, .red-text {
 
 p {
   font-size: 20px;
-  text-align: justify; /* aligns text on the right and the left of paragraphs except last line */
+  text-align: justify;
   margin-bottom: 50px;
 }
