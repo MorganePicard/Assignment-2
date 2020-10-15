@@ -1,9 +1,12 @@
 /* CSS files add styling rules to your content */
 
 body {
+  
+  
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
   color:black;
+  text-size-adjust: 100%;
   background-color:white;
   background-image:url(https://cdn.glitch.com/33eeb8ea-50c4-465e-8c19-0ce2b0eb0659%2FRobot-relation-Homme-1.jpg?v=1602790933869);
   background-repeat:repeat;
