@@ -15,6 +15,85 @@ body {
 }
 
 
+
+.wrapper {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+@media (min-width: 550px) {
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(12, [col] 1fr);
+    grid-column-gap: 2em;
+    grid-row-gap: 1em;
+  }
+  .header {
+    grid-column: col / span 12;
+    grid-row: 1;
+  }
+  .box1 {
+    grid-column: col / span 4;
+  }
+  .box2 {
+    grid-column: col 5 / span 4;
+  }
+  .box3 {
+    grid-column: col 9 / span 4;
+  }
+  .box4 {
+    grid-column: col / span 8;
+    grid-row: 3;
+  }
+  .box5 {
+    grid-column: col 9 / span 4;
+  }
+  
+  .box6 {
+    grid-column: col / span 3;
+  }
+  .box7 {
+    grid-column: col 4 / span 3;
+  }
+  .box8 {
+    grid-column: col 7 / span 3;
+  }
+  .box9 {
+    grid-column: col 10 / span 3;
+  }
+  .box10 {
+    grid-column: col / span 6;
+  }
+  .box11 {
+    grid-column: col 7 / span 6;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 h1 {
   font-family: 'Share Tech Mono', monospace;
   color: darkblue;
