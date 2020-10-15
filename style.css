@@ -17,19 +17,19 @@ body {
 
 div#colonne1 {
 	float: left;
-	width: 160px;
+	width: 500px;
 	margin-right: 10px;
-	background: lightblue;
+	background: transparent;
 }
 div#colonne2 {
 	float: right;
-	width: 300px;
+	width: 500px;
 	margin-left: 10px;
-	background: burlywood;
+	background: transparent;
 }
 div#centre {
 	overflow: hidden;
-	background: khaki;
+	background: transparent;
 }
 
 
