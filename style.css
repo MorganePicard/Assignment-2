@@ -15,39 +15,10 @@ body {
 }
 
 
-div#colonne1 {
-	float: left;
-	width: 500px;
-	margin-right: 10px;
-	background: transparent;
-}
-div#colonne2 {
-	float: right;
-	width: 500px;
-	margin-left: 10px;
-	background: transparent;
-}
-div#centre {
-	overflow: hidden;
-	background: transparent;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 h1 {
   font-family: 'Share Tech Mono', monospace;
-  color: darkblue;
+  color: white;
   text-align:center
 }
 
