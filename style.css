@@ -6,12 +6,8 @@ body {
 }
 
 html { 
-  background: url(https://cdn.glitch.com/33eeb8ea-50c4-465e-8c19-0ce2b0eb0659%2Falex-knight-2EJCSULRwC8-unsplash%20(1).jpg?v=1602763707048) no-repeat center fixed;
-  /* set a background image to the html element (= our whole page) centered horizontally and vertically */
-  
-  background-size: cover;
-  /* adapt the size of the background image but keeps its ratio */
-}
+  background: url(https://cdn.glitch.com/69c7d15a-8f4c-4a37-b3e6-df673c61727f%2Fphoto-1489321336462-efe12c02d099.jpg) no-repeat center center fixed;
+  backgroung size : 
 
 h1 {
   font-family: 'Share Tech Mono', monospace;
