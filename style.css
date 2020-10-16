@@ -35,7 +35,13 @@ h1 {
   
 }
 
-.list {fon}
+.list {font-family: 'Russo One', sans-serif;
+font-family: 'Share Tech', sans-serif;
+font-size: 16px;
+color: black;
+text-align:justify;
+  
+}
 
 
 h2 {font-family: 'Russo One', sans-serif;
@@ -45,7 +51,7 @@ text-align:center
 
 }
 
-h3, #header, .red-text {
+h3, #header, .h3 {
   color: steelblue;
   text-align: center
 }
@@ -55,3 +61,9 @@ p {
   text-align: justify;
   margin-bottom: 50px;
 }
+
+
+a {font-family: 'Share Tech Mono', monospace;
+  color: grey;
+  text-align:center;
+font-size:12px;}
