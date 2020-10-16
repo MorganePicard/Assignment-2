@@ -35,25 +35,26 @@ h1 {
   
 }
 
-.list {font-family: 'Russo One', sans-serif;
-font-family: 'Share Tech', sans-serif;
-font-size: 16px;
+.list {font-family: 'Share Tech', sans-serif;
+
+font-size: 14px;
 color: black;
 text-align:justify;
   
 }
 
 
-h2 {font-family: 'Russo One', sans-serif;
-font-family: 'Share Tech', sans-serif;
+h2 {font-family:'Share Tech Mono', monospace;
 color: blue;
-text-align:center
+text-align:center;
+font-size:1px;
 
 }
 
-h3, #header, .h3 {
+h3 {
   color: steelblue;
-  text-align: center
+  text-align: center;
+  font-family:'MutatorSans';
 }
 
 p {
