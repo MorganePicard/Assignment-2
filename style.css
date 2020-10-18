@@ -10,7 +10,12 @@ body {
   min-width: 100%;
   min-height: 100%;
 }
-
+<style>
+      body {
+        font-family: "Crimson Pro", serif;
+        font-size: 30px;
+      }
+    </style>
 h1 {
   font-family: "Share Tech Mono", monospace;
   color: white;
