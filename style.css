@@ -6,9 +6,7 @@ body {
   color: black;
   text-size-adjust: 100%;
   background-color: white;
-  background-position: 100% 100%;
-  min-width: 100%;
-  min-height: 100%;
+  
 }
 
 h1 {
@@ -20,9 +18,9 @@ h1 {
 .introduction {
   background-image: url("https://cdn.glitch.com/33eeb8ea-50c4-465e-8c19-0ce2b0eb0659%2Fgiphy%20(6).gif?v=1602794112535");
   background-size: cover;
-  background-position: center;
-  min-width: 100%;
-  min-height: 100%;
+  background-position: cover;
+  max-width: 100%;
+  height: auto;
 
   
 }
@@ -73,4 +71,4 @@ img.displayed {
   margin-right: auto;
   width: 20em;
   
-  
+.the
