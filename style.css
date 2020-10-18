@@ -6,12 +6,11 @@ body {
   color: black;
   text-size-adjust: 100%;
   background-color: white;
-  
 }
 
 h1 {
   font-family: "Share Tech Mono", monospace;
-  color: black;
+  color: white;
   text-align: center;
 }
 
@@ -21,8 +20,6 @@ h1 {
   background-position: cover;
   max-width: 100%;
   height: auto;
-
-  
 }
 
 .section {
@@ -54,7 +51,7 @@ p {
   font-size: 20px;
   text-align: justify;
   margin-bottom: 50px;
-  color:black;
+  color: black;
 }
 
 a {
@@ -70,5 +67,11 @@ img.displayed {
   margin-left: auto;
   margin-right: auto;
   width: 20em;
-  
-.the
+}
+
+img.end {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+}
